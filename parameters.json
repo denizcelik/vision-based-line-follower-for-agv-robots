@@ -1,0 +1,22 @@
+{
+    "scaler_x": 0.667,
+    "scaler_y": 0.667,
+    "size_kernel_blur": 20,
+    "threshold_binary": 5,
+    "approx_chain": 0.003,
+    "lim_hsv_upper": [
+        179,
+        96,
+        96
+    ],
+    "lim_hsv_lower": [
+        0,
+        0,
+        0
+    ],
+    "ratio_area_upper": 0.5,
+    "ratio_area_lower": 0.05,
+    "size_kernel_morph": 7,
+    "iter_erosion": 7,
+    "iter_dilation": 5
+}
