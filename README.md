@@ -16,7 +16,7 @@ The main controller program reads the adjusted parameters from "parameter.json" 
 
 _Will be updated._
 
-### TODO:
+**TODO:**
 
 - Informative functions
 - Docstrings
